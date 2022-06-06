@@ -4,8 +4,6 @@
 - ☕ Sweet . Acid
 - 🎧 Nightcore . SKA
 
-![Alt Text](https://media1.tenor.com/images/a9f666c8212d9460e5d0f33405b3709b/tenor.gif?itemid=13576085)
-
 <br>
 <a href="https://github.com/fairuzmn/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
