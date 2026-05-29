@@ -2,7 +2,7 @@
 
 ### Mobile Engineer specializing in Flutter, React Native, and scalable mobile banking applications
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fairuzmn" alt="fairuzmn" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-fork-two.vercel.app/?username=fairuzmn" alt="fairuzmn" /></a> </p>
 
 - 🔭 I'm currently working on **Secure and scalable mobile banking applications using Flutter and React Native for Android and iOS**
 
